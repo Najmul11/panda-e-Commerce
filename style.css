@@ -1,0 +1,11 @@
+/* matched with image border color */
+.carousel-background,.subscribe-background{
+    background-color: #ffeae8;
+    border-radius: 10px;
+}
+.catagory-image img{
+    width: 100px;
+}
+/* .buynow-button{
+    background-color: #EF5354;
+} */
